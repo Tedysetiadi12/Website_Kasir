@@ -1,6 +1,6 @@
 # 💼 Project Kasir – Point of Sale Web App
 
-![Project Kasir Screenshot](your-image-url-here)
+![Project Kasir Screenshot](https://github.com/Tedysetiadi12/Website_Kasir/blob/main/Capture.PNG)
 
 ## 📌 Deskripsi Proyek
 
@@ -27,17 +27,14 @@ Halo! Saya **Tedi Setiadi**, seorang pengembang perangkat lunak yang berfokus pa
 
 > 💬 Jangan ragu untuk menghubungi saya jika tertarik bekerja sama atau ingin melihat proyek lainnya!
 
-📧 Email: tedi.setiadi@email.com  
+📧 Email: tedisetiadi744@email.com  
 💼 LinkedIn: [linkedin.com/in/tedisetiadi](https://linkedin.com/in/tedisetiadi)  
-📁 GitHub: [github.com/tahhu](https://github.com/tahhu)
+📁 GitHub: [github.com/tahhu](https://github.com/Tedysetiadi)
 
 ## 🚀 Instalasi
 
 ```bash
 git clone https://github.com/your-username/website-kasir.git
-cd website-kasir
-npm install
-npm start
 ```
 
 ## 📄 Lisensi
